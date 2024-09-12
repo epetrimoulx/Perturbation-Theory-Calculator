@@ -1,0 +1,3 @@
+## Convert Jupyter Notebook to PDF ##
+jupyter nbconvert --to pdf notebook.ipynb
+
