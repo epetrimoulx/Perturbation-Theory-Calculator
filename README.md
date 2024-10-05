@@ -309,10 +309,8 @@ MakeEnergyGraph(x, energy, corrected_energy, potential)
 
 ## Results ##
 
-In this section I analyze the outputs from the designed program for various perturbed potentials. The first result in shown by running the cell above in the method section. By re-runnning the code above with the potential shifted to one side of the well we get:
-$$
-    V(x) = \frac{-1}{0.05 \sqrt{2\pi}} \exp \left(\frac{{-(x-8)^2}}{(2* 0.05)^2} \right)
-$$
+In this section I analyze the outputs from the designed program for various perturbed potentials. The first result in shown by running the cell above in the method section. By re-runnning the code above with the potential shifted to one side of the well we get:\\
+$$V(x) = \frac{-1}{0.05 \sqrt{2\pi}} \exp \left(\frac{{-(x-8)^2}}{(2* 0.05)^2} \right)$$
 
 Where the main change is that the gaussian perturbation is no longer centered.
 
