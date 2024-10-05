@@ -255,7 +255,8 @@ for i in range(0, 10):
 
 ```
 
-Taking the normalized wavefunctions I now compute the probabilities for each state by computing $ P(\psi(x)) = \vert \psi_n(x) \vert^2 $
+Taking the normalized wavefunctions I now compute the probabilities for each state by computing:
+$$P(\psi(x)) = \vert \psi_n(x) \vert^2 $$
 
 ```python
 # Get Probability Distributions #
