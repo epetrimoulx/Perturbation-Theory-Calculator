@@ -552,13 +552,11 @@ MakeEnergyGraph(x, energy, corrected_energy, potential)
 ```
 
 I will also include a few other interesting functions for proof of concept, and for fun.
-$$
-\begin{align*}
+$$\begin{align*}
     V(x) &= -x \\
     V(x) &= \sin(2x) \\
     V(x) &= -\log(x)
-\end{align*}
-$$
+\end{align*}$$
 
 ```python
 # Width of the potential well #
