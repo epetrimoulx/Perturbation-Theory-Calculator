@@ -106,12 +106,6 @@ $$
 Since the wavefunction must go to zero when the potential is infinite, can instead write:
 
 $$
-\langle \psi \vert V(x) \vert \psi \rangle = \cancel{\int_{-\infty}^0 \psi^*(x) V(x) \psi(x) dx}^0 + \int_{0}^a\psi^*(x) V(x) \psi(x) dx + \cancel{\int_a^\infty \psi^*(x) V(x) \psi(x) dx}^0
-$$
-
-So:
-
-$$
 \langle \psi \vert V(x) \vert \psi \rangle = \int_{0}^{a} \psi^*(x) V(x) \psi(x) dx
 $$
 
