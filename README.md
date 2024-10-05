@@ -551,9 +551,9 @@ for i in range(0, 10):
 MakeEnergyGraph(x, energy, corrected_energy, potential)
 ```
 
-I will also include a few other interesting functions for proof of concept, and for fun.
-$$V(x) = -x$$
-$$V(x) = \sin(2x)$$
+I will also include a few other interesting functions for proof of concept, and for fun.\\
+$$V(x) = -x$$\\
+$$V(x) = \sin(2x)$$\\
 $$V(x) = -\log(x)$$
 
 ```python
