@@ -473,9 +473,7 @@ MakeEnergyGraph(x, energy, corrected_energy, potential)
 ```
 
 We can also experiment with other potentials of our choice. For example, we can take the potential:
-$$
-V(x) = -\sqrt{x}
-$$
+$$V(x) = -\sqrt{x}$$
 And we end up with a very different set of perterbations.
 
 ```python
